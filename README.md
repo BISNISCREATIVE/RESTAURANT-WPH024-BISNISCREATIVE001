@@ -246,3 +246,4 @@ restaurant-frontend/
 **Built with ❤️ using React, TypeScript, and Tailwind CSS**
 
 LINK DEPLOYMENT PT.BISNISCREATIVE DIGITAL MULTIMEDIA:https://restaurant-wph-024-bisniscreative-0.vercel.app/
+LINK DEPLOYMENT PT.BISNISCREATIVE DIGITAL MULTIMEDIA:https://reataurant.padin.my.id
